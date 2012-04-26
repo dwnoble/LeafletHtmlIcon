@@ -43,3 +43,6 @@ Add events as you normally would to a marker:
     });
     map.addLayer(marker);
 
+## Screenshot
+
+<img alt="Leaflet Html Icon" src="http://dwnoble.github.com/images/LeafletHtmlIconLondon.png"/>
