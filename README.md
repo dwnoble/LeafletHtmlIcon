@@ -1,4 +1,4 @@
-## Leaflet HTML Icon
+# Leaflet HTML Icon
 
 Plugin for adding arbitrary HTML markers to a Leaflet map
 
